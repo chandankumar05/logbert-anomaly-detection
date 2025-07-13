@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "LogBERT Anomaly Detection System - Advanced log analysis and root cause analysis",
   "private": true,
-  "homepage": "https://yourusername.github.io/logbert-anomaly-detection",
+  "homepage": "https://chandankumar05.github.io/logbert-anomaly-detection",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

@@ -23,7 +23,7 @@ A modern, interactive web application for log analysis and anomaly detection pow
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/logbert-anomaly-detection.git
+   git clone https://github.com/chandankumar05/logbert-anomaly-detection.git
    cd logbert-anomaly-detection
    ```
 
@@ -45,7 +45,7 @@ A modern, interactive web application for log analysis and anomaly detection pow
 
 1. **Update the homepage URL** in `package.json`:
    ```json
-   "homepage": "https://yourusername.github.io/logbert-anomaly-detection"
+   "homepage": "https://chandankumar05.github.io/logbert-anomaly-detection"
    ```
 
 2. **Push to GitHub**:
@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/logbert-anomaly-detection/issues) page
+1. Check the [Issues](https://github.com/chandankumar05/logbert-anomaly-detection/issues) page
 2. Create a new issue with detailed information
 3. Contact the maintainers
 
@@ -173,7 +173,7 @@ If you encounter any issues or have questions:
 
 ## 📊 Demo
 
-Visit the live demo: [LogBERT Anomaly Detection](https://yourusername.github.io/logbert-anomaly-detection)
+Visit the live demo: [LogBERT Anomaly Detection](https://github.com/chandankumar05/logbert-anomaly-detection.git)
 
 ---
 
